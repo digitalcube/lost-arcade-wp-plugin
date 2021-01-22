@@ -7,19 +7,19 @@
 #game-info {
   color: #fff;
   font-family: "Source Code Pro", monospace;
-  margin: 10px 10px 0;
-  padding: 8px;
+  margin: 1rem 1rem 0;
+  padding: 1rem;
   background: #161616;
   position: absolute;
   z-index: 1;
 }
 
 #game-info h1 {
-  font-size: 18px;
+  font-size: 1.25rem;
   color: #fff;
   font-family: "Source Code Pro", monospace;
 }
 
 #game-info p {
-  font-size: 14px;
+  font-size: 0.875rem;
 }
